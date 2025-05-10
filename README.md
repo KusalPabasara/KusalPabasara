@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **kusalp.23@cse.mrt.ac.lk**
 
+- 🔢 WhatsApp me **+94 716720764**
+
 - 📄 Know about my experiences [https://kusalpabasara.github.io/MYPersonalWebsite/](https://kusalpabasara.github.io/MYPersonalWebsite/)
 
 <h3 align="left">Connect with me:</h3>
