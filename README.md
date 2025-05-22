@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, Java, C++, OOP concepts**
 
-- 💬 Ask me about **react.js,Node.js & Java, Python, C++ coding stuff**
+- 💬 Ask me about **react.js, & Java, Python, C++**
 
 - 📫 How to reach me **kusalp.23@cse.mrt.ac.lk**
 
