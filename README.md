@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kusalp.23@cse.mrt.ac.lk**
 
-- 📄 Know about my experiences [https://kusalpabasara.github.io/MYPersonalWebsite/](https://kusalpabasara.me)
+- 📄 Know about my experiences [https://kusalpabasara.me](https://kusalpabasara.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
