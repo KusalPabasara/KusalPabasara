@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusalpabasara&label=Profile%20views&color=0e75b6&style=flat" alt="kusalpabasara" /> </p>
 
-- 🌱 I’m currently learning **Node.js, Java, C++, OOP concepts**
+-  I’m currently learning **Node.js, Java, C++, OOP concepts**
 
-- 💬 Ask me about **react.js, & Java, Python, C++**
+-  Ask me about **react.js, & Java, Python, C++**
 
-- 📫 How to reach me **kusalp.23@cse.mrt.ac.lk**
+- Passionate about Data Science and ML
 
-- 📄 Know about my experiences [https://kusalpabasara.me](https://kusalpabasara.me)
+-  How to reach me **kusalp.23@cse.mrt.ac.lk**
+
+-  Know about my experiences [https://kusalpabasara.me](https://kusalpabasara.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
