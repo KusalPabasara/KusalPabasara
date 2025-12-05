@@ -47,19 +47,5 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats-kappa-six.vercel.app/api/top-langs/?username=kusalpabasara&layout=compact&theme=tokyonight"
-    height="180px"
-  />
-
-  <img 
-    src="https://github-readme-stats-kappa-six.vercel.app/api?username=kusalpabasara&show_icons=true&theme=tokyonight"
-    height="180px"
-  />
-
-</div>
 
