@@ -57,11 +57,6 @@
   ![](https://github-profile-trophy.vercel.app/?username=KusalPabasara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
-<br>
 
-<div align="center">
-  <!-- Contribution graph -->
-  <img src="https://github.com/KusalPabasara/KusalPabasara/blob/main/github-user-contribution.svg" alt="snake" />
-</div>
 
 
