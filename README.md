@@ -49,12 +49,11 @@
 <div align="center">
   <samp><h3>GitHub Stats</h3></samp>
 
-  <!-- Purple streak chart -->
+
   ![](https://github-readme-streak-stats.herokuapp.com/?user=KusalPabasara&theme=violet-punch&hide_border=false)
 
   <br><br>
-  <!-- Trophy -->
-  ![](https://github-profile-trophy.vercel.app/?username=KusalPabasara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
 
 
