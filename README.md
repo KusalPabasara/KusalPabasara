@@ -46,15 +46,7 @@
 </p>
 
 ---
-<div align="center">
-  <samp><h3>GitHub Stats</h3></samp>
 
-
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=KusalPabasara&theme=violet-punch&hide_border=false)
-
-  <br><br>
-
-</div>
 
 
 
