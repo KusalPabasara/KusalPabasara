@@ -9,7 +9,7 @@
 - Ask me about **React.js, Java, Python, C++**
 - Passionate about Data Science and ML
 - How to reach me **kusalp.23@cse.mrt.ac.lk**
-- Know about my experiences **https://kusalpabasara.me**
+- Know about my experiences **kusalpabasara.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
