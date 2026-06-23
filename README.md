@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=kusalpabasara&label=Profile%20views&color=0e75b6&style=flat" alt="kusalpabasara" />
 </p>
 
-- I’m currently learning **Node.js, Java, C++, OOP concepts**
-- Ask me about **React.js, Java, Python, C++**
+- I’m currently learning **Cybersecurity concepts, Langraph, Langfuse, MultiAgentic systems**
+- Ask me about **ML workflows , Automation & software combined ML systems, Software concepts**
 - Passionate about Data Science and ML
 - How to reach me **kusalp.23@cse.mrt.ac.lk**
 - Know about my experiences **https://kusalpabasara.me**
@@ -29,7 +29,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
